@@ -9,4 +9,4 @@ This app enables users to share their connected Wi-Fi networks with others. Buil
 ## How to Build Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/WiFiShareApp.git
+   https://github.com/Donald-desing/Sh.git
